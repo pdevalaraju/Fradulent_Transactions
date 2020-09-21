@@ -9,10 +9,10 @@ The program helps analyze the credit card transactions to identify suspicious ac
 Below visualizations portray the approach taken to narrow down to the transactions of suspicious nature.
 
 
-![heatmap](/resources/transaction_heatmap.png) ![kde](/resources/transaction_density_map.png) 
+![heatmap](/resources/transaction_heatmap.PNG) ![kde](/resources/transaction_density_map.PNG) 
 
 
-![heatmap](/resources/merchant_category_scatter_plot.png) ![kde](/resources/bringit_all_2gether.png) 
+![scatter](/resources/merchant_category_scatter_plot.PNG) ![categories](/resources/bringit_all_2gether.PNG) 
 
 
 The Outliers_identification notebook uses Standard Deviation method and Interqunatile Range methods to identiy outliers. 
